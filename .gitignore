@@ -2,5 +2,4 @@
 *.pyc
 *.pyo
 *.csv
-*.png
 *.coverage
